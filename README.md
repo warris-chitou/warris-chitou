@@ -52,7 +52,6 @@ Après avoir exploré le monde fascinant de la physique, j'ai découvert une pas
 
 ## 📫 Me Contacter
 
-- 📧 Email : developpeur@example.com
 - 🔗 LinkedIn : [linkedin.com/in/warris-agbannonde](www.linkedin.com/in/warris-agbannonde)
 
 ---
