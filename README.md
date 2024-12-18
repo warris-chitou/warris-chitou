@@ -1,4 +1,4 @@
-# 👋 Salut, je suis un Développeur Passionné !
+# 👋 Salut, je suis un Développeur !
 
 ## 🚀 À Propos de Moi
 
